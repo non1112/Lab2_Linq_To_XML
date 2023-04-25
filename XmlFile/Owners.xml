@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Owners>
+  <Owner>
+    <Id>1</Id>
+    <DriverLicenseNumber>23123123432</DriverLicenseNumber>
+    <LastName>Поліщук</LastName>
+    <FirstName>Віктор</FirstName>
+    <MiddleName>Вікторович</MiddleName>
+    <DateOfBirth>2004-03-02T00:00:00</DateOfBirth>
+    <RegistrationAddress>Шевченка 45А</RegistrationAddress>
+  </Owner>
+  <Owner>
+    <Id>2</Id>
+    <DriverLicenseNumber>31229887932</DriverLicenseNumber>
+    <LastName>Нікітіна</LastName>
+    <FirstName>Наталія</FirstName>
+    <MiddleName>Юріївна</MiddleName>
+    <DateOfBirth>2002-04-12T00:00:00</DateOfBirth>
+    <RegistrationAddress>Сарни 12</RegistrationAddress>
+  </Owner>
+  <Owner>
+    <Id>3</Id>
+    <DriverLicenseNumber>56765543545</DriverLicenseNumber>
+    <LastName>Паламарчук</LastName>
+    <FirstName>Дмитро</FirstName>
+    <MiddleName>Васильович</MiddleName>
+    <DateOfBirth>2000-01-22T00:00:00</DateOfBirth>
+    <RegistrationAddress>Котляревського 4А</RegistrationAddress>
+  </Owner>
+  <Owner>
+    <Id>4</Id>
+    <DriverLicenseNumber>96786574565</DriverLicenseNumber>
+    <LastName>Поліщук</LastName>
+    <FirstName>Степан</FirstName>
+    <MiddleName>Стенпанович</MiddleName>
+    <DateOfBirth>1998-03-23T00:00:00</DateOfBirth>
+    <RegistrationAddress>Мічурина 7</RegistrationAddress>
+  </Owner>
+  <Owner>
+    <Id>5</Id>
+    <DriverLicenseNumber>96796756756</DriverLicenseNumber>
+    <LastName>Стефанюк</LastName>
+    <FirstName>Віктор</FirstName>
+    <MiddleName>Денисович</MiddleName>
+    <DateOfBirth>1994-06-23T00:00:00</DateOfBirth>
+    <RegistrationAddress>Шевченка 45/А</RegistrationAddress>
+  </Owner>
+  <Owner>
+    <Id>6</Id>
+    <DriverLicenseNumber>85676456453</DriverLicenseNumber>
+    <LastName>Кулінар</LastName>
+    <FirstName>Євген</FirstName>
+    <MiddleName>Вікторович</MiddleName>
+    <DateOfBirth>2004-07-14T00:00:00</DateOfBirth>
+    <RegistrationAddress>Каневського 32</RegistrationAddress>
+  </Owner>
+  <Owner>
+    <Id>7</Id>
+    <DriverLicenseNumber>96885463452</DriverLicenseNumber>
+    <LastName>Мозайчук</LastName>
+    <FirstName>Микита</FirstName>
+    <MiddleName>Артемович</MiddleName>
+    <DateOfBirth>2002-07-13T00:00:00</DateOfBirth>
+    <RegistrationAddress>Коростенщина 36А</RegistrationAddress>
+  </Owner>
+  <Owner>
+    <Id>8</Id>
+    <DriverLicenseNumber>64756354544</DriverLicenseNumber>
+    <LastName>Малярчук</LastName>
+    <FirstName>Андрій</FirstName>
+    <MiddleName>Артемович</MiddleName>
+    <DateOfBirth>2004-08-08T00:00:00</DateOfBirth>
+    <RegistrationAddress>Мічурина 7</RegistrationAddress>
+  </Owner>
+  <Owner>
+    <Id>9</Id>
+    <DriverLicenseNumber>34563456765</DriverLicenseNumber>
+    <LastName>Мазуренко</LastName>
+    <FirstName>Дмитро</FirstName>
+    <MiddleName>Олександрович</MiddleName>
+    <DateOfBirth>2000-11-05T00:00:00</DateOfBirth>
+    <RegistrationAddress>Шевченка 45А</RegistrationAddress>
+  </Owner>
+</Owners>
